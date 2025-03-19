@@ -1,0 +1,16 @@
+var age;
+age = 21;
+age = "23";
+var arr = [];
+arr.push(23);
+arr.push(27);
+var arr2 = [];
+arr2.push("hello");
+arr2.push("typeScript");
+var mixed = [];
+mixed.push(23);
+mixed.push("mmt");
+var mixedTwo = [];
+mixedTwo.push(23);
+mixedTwo.push("hello");
+console.log(mixedTwo);
